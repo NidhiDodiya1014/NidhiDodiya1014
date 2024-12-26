@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #4CAF50;">Hi 👋, This is Nidhi Dodiya</h1>
-<h3 align="center" style="color: #FFC107;">A passionate frontend developer from India</h3>
+<h3 align="center" style="color: #FFC107;">A passionate developer from India</h3>
 
 <div align="center">
   <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="600" alt="Creative GIF">
@@ -12,7 +12,7 @@
 
 <ul style="list-style-type: none; font-size: 18px;">
   <li>🔭 I’m currently working on <b>Backend development</b></li>
-  <li>💬 Ask me about <b>DSA, MERN</b></li>
+  <li>💬 Ask me about <b>DSA, MERN, CP</b></li>
   <li>📫 How to reach me: <b>nidhidodiya1014@gmail.com</b></li>
   <li>⚡ Fun fact: <b>I debug so much, I consider it my cardio. 😄</b></li>
 </ul>
