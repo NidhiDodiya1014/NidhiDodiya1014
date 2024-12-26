@@ -71,17 +71,24 @@
 </div>
 
 <h3 align="center" style="color: #03A9F4;">GitHub Stats</h3>
-<div align="center" style="margin-bottom: 20px;">
-  <p>
+
+
+<div align="center">
+  
+  <!-- Content Image that overrides background -->
+  <p >
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhidodiya1014&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   </p>
+
+  <!-- Additional Stats Content -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=nidhidodiya1014&show_icons=true&locale=en" alt="GitHub Stats" />
-  </p>
-  <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhidodiya1014" alt="GitHub Streak" />
   </p>
 </div>
+</div>
+
+
 
 <h3 align="center" style="color: #FF9800;">GitHub Trophies</h3>
 <div align="center">
