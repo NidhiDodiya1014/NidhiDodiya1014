@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #FFC107;">A passionate developer from India</h3>
 
 <div align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="600" alt="Creative GIF">
+  <img src="https://github.com/NidhiDodiya1014/NidhiDodiya1014/blob/main/fold.gif" width="600" alt="Creative GIF">
 </div>
 
 <h2 align="center" style="color: #9C27B0;">Profile Overview</h2>
