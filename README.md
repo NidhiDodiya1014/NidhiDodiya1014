@@ -1,9 +1,7 @@
 <h1 align="center" style="color: #4CAF50;">Hi 👋, This is Nidhi Dodiya</h1>
 <h3 align="center" style="color: #FFC107;">A passionate developer from India</h3>
 
-<div align="center">
-  <img src="https://github.com/NidhiDodiya1014/NidhiDodiya1014/blob/main/fold.gif" height="250" width="1000" alt="Creative GIF">
-</div>
+<img src="https://raw.githubusercontent.com/khyatisatija/khyatisatija/output/snake.svg" alt="Snake animation" />
 
 <h2 align="center" style="color: #9C27B0;">Profile Overview</h2>
 <p align="center"> 
@@ -98,3 +96,4 @@
     </a>
   </p>
 </div>
+
