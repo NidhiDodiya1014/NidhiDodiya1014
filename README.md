@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #4CAF50;">Hi 👋, This is Nidhi Dodiya</h1>
+<h1 align="center" style="color: #4CAF50;">Hi, This is Nidhi Dodiya</h1>
 <h3 align="center" style="color: #FFC107;">A passionate developer from India</h3>
 
 <img src="https://raw.githubusercontent.com/khyatisatija/khyatisatija/output/snake.svg" alt="Snake animation" />
