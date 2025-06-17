@@ -17,19 +17,19 @@
 
 <h3 align="left" style="color: #4CAF50;">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/nidhi-dodiya-30bbab303" target="_blank">
+  <a href="https://linkedin.com/in/nidhidodiya05" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/nidhidodiya05" target="_blank">
+  <a href="https://instagram.com/nidhidodiya_05" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/nidhidodiya174" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/ndd.1014" target="_blank">
+  <a href="https://codeforces.com/profile/faker_than_you" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/ndd_1205" target="_blank">
+  <a href="https://www.leetcode.com/ndd05" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/nidhidodiya" target="_blank">
