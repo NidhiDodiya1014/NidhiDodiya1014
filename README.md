@@ -37,63 +37,46 @@
   </a>
 </p>
 
-<h3 align="left" style="color: #FF5722;">Languages and Tools:</h3>
-<div align="left" style="margin-bottom: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React logo" />
-</div>
+<h2 align="right">🚀 Technologies & Tools</h2>
+<p align="right">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge&height=30" />
+</p>
 
-<h3 align="center" style="color: #03A9F4;">GitHub Stats</h3>
+<p align="right">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge&height=30" />
+</p>
 
+<p align="right">
+  <!-- Backend & Tools -->
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-POSTMAN-d9770f?logo=postman&logoColor=white&style=for-the-badge&height=30" />
+</p>
 
-<div align="center">
-  
-  <!-- Content Image that overrides background -->
-  <p >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhidodiya1014&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  </p>
+<!-- Tools Badges -->
+<p align="right">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+</p>
 
-  <!-- Additional Stats Content -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=nidhidodiya1014&show_icons=true&locale=en" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhidodiya1014" alt="GitHub Streak" />
-  </p>
-</div>
-</div>
-
-
-
-<h3 align="center" style="color: #FF9800;">GitHub Trophies</h3>
-<div align="center">
-  <p> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=nidhidodiya1014" alt="GitHub Trophies" />
-    </a>
-  </p>
-</div>
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NidhiDodiya1014&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=NidhiDodiya1014&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
