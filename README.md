@@ -1,7 +1,14 @@
 <h1 align="center" style="color: #4CAF50;">Hi, This is Nidhi Dodiya</h1>
 <h3 align="center" style="color: #FFC107;">A passionate developer from India</h3>
 
-<img src="https://raw.githubusercontent.com/khyatisatija/khyatisatija/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nidhidodiya1014/nidhidodiya1014/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#8e05c2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nidhidodiya1014/nidhidodiya1014/output/github-contribution-grid-snake.svg?palette=github-light&color_snake=#8e05c2" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nidhidodiya1014/nidhidodiya1014/output/github-contribution-grid-snake.svg?palette=github-light&color_snake=#8e05c2" />
+  </picture>
+</p>
+
 
 <h2 align="center" style="color: #9C27B0;">Profile Overview</h2>
 <p align="center"> 
