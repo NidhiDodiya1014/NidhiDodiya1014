@@ -44,38 +44,68 @@
   </a>
 </p>
 
-<h2 align="right">🚀 Technologies & Tools</h2>
 
-<p align="right">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
-</p>
+<h2 align="center">🚀 Technologies & Tools</h2>
 
-<p align="right">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
-</p>
+<table align="center"
+       style="border:none;border-collapse:separate;border-spacing:40px 18px;width:100%;text-align:center;">
 
-<p align="right">
-  <!-- Backend & Tools -->
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-POSTMAN-d9770f?logo=postman&logoColor=white&style=for-the-badge" />
-</p>
+<!-- Languages -->
+<tr>
+<td align="left"><b>Languages</b></td>
 
-<p align="right">
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-</p>
+<td><img src="https://skillicons.dev/icons?i=java" height="55"/><br>Java</td>
+<td><img src="https://skillicons.dev/icons?i=cpp" height="55"/><br>C++</td>
+<td><img src="https://skillicons.dev/icons?i=c" height="55"/><br>C</td>
+<td><img src="https://skillicons.dev/icons?i=js" height="55"/><br>JavaScript</td>
+</tr>
+
+
+<!-- Frameworks -->
+<tr>
+<td align="left"><b>Frameworks</b></td>
+
+<td><img src="https://skillicons.dev/icons?i=spring" height="55"/><br>Spring Boot</td>
+<td><img src="https://skillicons.dev/icons?i=express" height="55"/><br>Express</td>
+<td><img src="https://skillicons.dev/icons?i=react" height="55"/><br>React</td>
+<td><img src="https://skillicons.dev/icons?i=tailwind" height="55"/><br>Tailwind CSS</td>
+<td><img src="https://skillicons.dev/icons?i=bootstrap" height="55"/><br>Bootstrap</td>
+</tr>
+
+
+<!-- Databases -->
+<tr>
+<td align="left"><b>Databases</b></td>
+
+<td><img src="https://skillicons.dev/icons?i=mysql" height="55"/><br>MySQL</td>
+<td><img src="https://skillicons.dev/icons?i=postgres" height="55"/><br>PostgreSQL</td>
+<td><img src="https://skillicons.dev/icons?i=mongodb" height="55"/><br>MongoDB</td>
+<td><img src="https://www.h2database.com/html/images/h2-logo-2.png" height="55"/><br>H2</td>
+</tr>
+
+
+<!-- Tools -->
+<tr>
+<td align="left"><b>Tools</b></td>
+
+<td><img src="https://skillicons.dev/icons?i=git" height="55"/><br>Git</td>
+<td><img src="https://skillicons.dev/icons?i=github" height="55"/><br>GitHub</td>
+<td><img src="https://skillicons.dev/icons?i=postman" height="55"/><br>Postman</td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Cloudinary_logo.svg" height="55"/><br>Cloudinary</td>
+</tr>
+
+
+<!-- Platforms -->
+<tr>
+<td align="left"><b>Platforms</b></td>
+
+<td><img src="https://skillicons.dev/icons?i=nodejs" height="55"/><br>Node.js</td>
+<td><img src="https://skillicons.dev/icons?i=vercel" height="55"/><br>Vercel</td>
+<td><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="55"/><br>Google Colab</td>
+<td><img src="https://cdn.simpleicons.org/render/46E3B7" height="55"/><br>Render</td>
+<td><img src="https://cdn.simpleicons.org/railway/ffffff" height="55"/><br>Railway</td>
+</tr>
+
+</table>
+
+
